@@ -3,7 +3,7 @@ puts "it's one of the most funniest dog in the world."
 puts "And everywhere that Harvey went."
 puts "it follows back."
 puts "guess the dog name."
-puts "." * 20  # what'd that do?
+puts "." * 20 
 
 end1 = "l"
 end2 = "o"
