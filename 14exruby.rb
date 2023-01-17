@@ -5,15 +5,15 @@ puts "Hi #{user_name}."
 puts "I'd like to ask you a few questions."
 puts "Do you like the company #{user_name}? "
 puts prompt
-likes = "yes".chomp
+likes = gets.chomp
 
 puts "Where do you live #{user_name}? "
 puts prompt
-lives = "chennai".chomp
+lives = gets.chomp
 
 
 puts "What kind of computer do you have? ", prompt
-computer = "apple".chomp
+computer = gets.chomp
 
 puts """
 Alright, so you said #{likes} about liking me.
