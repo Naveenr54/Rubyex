@@ -11,7 +11,7 @@ target = open(filename, 'w')
 
 puts "Truncating the file.  Goodbye!"
 target.truncate(0)
-puts "Now I'm going to ask you for three lines."
+puts "Now I'm going to create three lines."
 
 print "line 1: "
 line1 = $stdin.gets.chomp
