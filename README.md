@@ -11,5 +11,5 @@
 11exruby ![image](https://user-images.githubusercontent.com/122514015/212841236-11d0945e-39e9-4d69-b811-23d3c3028c92.png)
 12exruby ![image](https://user-images.githubusercontent.com/122514015/212840909-5cde2cc2-6458-40f3-a8d5-f751383d745c.png)
 13exruby ![image](https://user-images.githubusercontent.com/122514015/212527257-163400aa-6c5c-44de-a4dc-54d1196ebe47.png)
-14exruby ![image](https://user-images.githubusercontent.com/122514015/212839661-75d832dd-6ec7-4e7f-97c1-0199e64bb3e4.png)
+14exruby ![image](https://user-images.githubusercontent.com/122514015/212842750-ad0b924e-128f-43ec-b010-42ba0fdd13f7.png)
 15exruby ![image](https://user-images.githubusercontent.com/122514015/212839249-46c93c9f-83c4-4264-8f74-cc0c807b331f.png)
