@@ -1,0 +1,3 @@
+this is the ex:16
+read and write txt file
+that's it
