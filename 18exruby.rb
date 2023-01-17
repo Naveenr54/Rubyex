@@ -1,22 +1,22 @@
-  def print_two(*args)
+def print_two(*args)
     arg1, arg2 = args
     puts "arg1: #{arg1}, arg2: #{arg2}"
-  end
+end
   
-  def print_two_again(arg1, arg2)
+def print_two_again(arg1, arg2)
     puts "arg1: #{arg1}, arg2: #{arg2}"
-  end
+end
   
-  def print_one(arg1)
+def print_one(arg1)
     puts "arg1: #{arg1}"
-  end
+end
   
-  def print_none()
+def print_none()
     puts "both are lawyers'."
-  end
+end
   
   
-  print_two("harvey","specter")
-  print_two_again("louis","litt")
-  print_one("First!")
-  print_none()
+print_two("harvey","specter")
+print_two_again("louis","litt")
+print_one("First!")
+print_none()
