@@ -1,9 +1,9 @@
 print "How old are you? "
-age = "22".chomp
+age = gets.chomp
 print "How tall are you? "
-height = "6.1".chomp
+height = gets.chomp
 print "How much do you weigh? "
-weight = "75".chomp
+weight = gets.chomp
 
 puts "So, you're #{age} old, #{height} tall and #{weight} heavy."
 
