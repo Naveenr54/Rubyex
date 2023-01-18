@@ -18,5 +18,15 @@
 18exruby ![image](https://user-images.githubusercontent.com/122514015/212884285-56c07b24-4cb8-4cc5-bd80-5e784ea0035c.png)
 19exruby ![image](https://user-images.githubusercontent.com/122514015/212915325-cb399db7-cf7f-4395-b1fa-3b74652fdad0.png)
 20exruby ![image](https://user-images.githubusercontent.com/122514015/212915820-ecca9015-20b0-444a-9134-4320020c3f3a.png)
+21exruby ![image](https://user-images.githubusercontent.com/122514015/213090918-16fabf0e-5993-4fa9-bda6-e26cea5209ad.png)
+22exruby studydrills
+23exruby "
+24exruby ![image](https://user-images.githubusercontent.com/122514015/213104925-5c82b25f-efcb-49e0-b9fd-a2629f912d36.png)
+25exruby ![image](https://user-images.githubusercontent.com/122514015/213110993-c62a0cfa-7cfe-4112-8ff0-0cdfc6f97938.png)
+26exruby study drills
+27exruby "
+28exruby ![image](https://user-images.githubusercontent.com/122514015/213115620-74df5cf1-9b55-4f07-b827-7455d57b83ed.png)
+29exruby ![image](https://user-images.githubusercontent.com/122514015/213116184-5dbe68ab-1620-43d9-8f28-e45111a0ff52.png)
+30exruby ![image](https://user-images.githubusercontent.com/122514015/213117640-0a5e07d8-597c-4a68-b15c-a14626fa38e9.png)
 
 
