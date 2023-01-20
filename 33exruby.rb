@@ -12,5 +12,4 @@ end
 
 puts "The numbers: "
 
-# remember you can write this 2 other ways?
 numbers.each {|num| puts num }
